@@ -7,7 +7,7 @@ Providing a more in-depth analysis of UFO sightings by allowing users to filter 
 
 ## Results
 Before filtering the webpage looks like this.
-![image](https://github.com/Elfreda2019/UFO/commit/13bdfcfd230490d51f12df2fe8315492cefb6e3a)
+![image](https://github.com/Elfreda2019/UFO/blob/main/static/images/ufo_1.png)
 
 
  
